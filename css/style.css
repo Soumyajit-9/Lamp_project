@@ -213,10 +213,8 @@ nav {
 .banner {
     background-image: url("../assets/banner.jpg");
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;    
     background-size: cover;
-    min-height: calc(100vh - 662px);
-    height: calc(100vh - 140px);
     margin-bottom: 77px;
 }
 
